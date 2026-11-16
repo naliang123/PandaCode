@@ -1,11 +1,10 @@
 # PandaCode 项目
-我正在构建一个终端 AI 编程助手（类似 Claude Code），项目名叫 MewCode，使用 Python 实现。
+我正在构建一个终端 AI 编程助手（类似 Claude Code），项目名叫 PandaCode，使用 Python 实现。
 
 ## 技术栈
 - Python
 
 ## 代码规范
-- commit message 用英文
 - 变量命名用 snake_case
 
 ## 语言
