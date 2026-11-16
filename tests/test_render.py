@@ -1,7 +1,3 @@
-# 来源：公众号@小林coding
-# 后端八股网站：xiaolincoding.com
-# Agent网站：xiaolinnote.com
-# 简历模版：jianli.xiaolinnote.com
 """TUI 渲染回归测试。
 
 背景：RichText / Rich markup 里的样式串会被 **Textual 自己的 parser 再解析一遍**。
